@@ -1,0 +1,1 @@
+This directory contains XML-based Activities and UI adapters for the Habit Tracker app.
