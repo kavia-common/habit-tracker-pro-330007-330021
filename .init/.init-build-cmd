@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew assembleDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/habit-tracker-pro-330007-330021/habit_tracker_android_app"
+}
